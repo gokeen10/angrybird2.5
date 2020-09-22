@@ -1,2 +1,2 @@
-# angrybird2.5
-angrybird2.5 on Visual Studio Code
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
